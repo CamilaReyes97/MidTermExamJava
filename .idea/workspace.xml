@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6085573f-f86c-4636-9bb9-289d4deefca7" name="Changes" comment="MidTermExam point 1">
-      <change afterPath="$PROJECT_DIR$/src/SeniorDiscountQualifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6085573f-f86c-4636-9bb9-289d4deefca7" name="Changes" comment="MidTermExam point 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PrintSymbols.executor": "Run",
+    "Application.SeniorDiscountQualifier.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709087529468</updated>
-      <workItem from="1709087530792" duration="528000" />
+      <workItem from="1709087530792" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary="MidTermExam point 1">
       <option name="closed" value="true" />
@@ -73,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709087735415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MidTermExam point 2">
+      <option name="closed" value="true" />
+      <created>1709088181673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709088181673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MidTermExam point 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="MidTermExam point 1" />
+    <MESSAGE value="MidTermExam point 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="MidTermExam point 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
