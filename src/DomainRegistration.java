@@ -21,6 +21,6 @@ public class DomainRegistration {
                 break;
         }
 
-        scanner.close(); // Close the scanner to prevent resource leak
+        scanner.close();
     }
 }
